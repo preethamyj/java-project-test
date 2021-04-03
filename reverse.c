@@ -1,6 +1,5 @@
 #include <stdio.h>
-void rev()
-{
+void rev() {
   char str[1000], rev[1000];
   int i, j, count = 0;
   printf ("\n enter string to reverse:");
